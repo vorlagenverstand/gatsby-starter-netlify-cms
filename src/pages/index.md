@@ -1,13 +1,13 @@
 ---
 templateKey: index-page
-title: Minde
+title: MINDE
 image: /img/home-jumbotron.jpg
 heading: Calidad y Compromiso
 subheading: Servicios Industriales
 mainpitch:
-  title: Porque Minde
+  title: Por que MINDE
   description: >
-    Estamos a sus ordenes para cumplir sus proyectos en tiempo y forma, 15 años
+    Estamos a sus ordenes para cumplir sus proyectos en tiempo y forma, 20 años
     de experiencia nos respaldan.
 description: Minde es...
 intro:
