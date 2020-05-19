@@ -40,9 +40,6 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Subir Documento
-                      </Link>
                     </li>
                     <li>
                       <a
@@ -81,11 +78,11 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="twitter" href="https://twitter.com">
+                <a title="youtube" href="https://youtube.com">
                   <img
                     className="fas fa-lg"
-                    src={twitter}
-                    alt="Twitter"
+                    src={youtube}
+                    alt="Youtube"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
